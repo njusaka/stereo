@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/stereo_1.dir/main.cpp.o CMakeFiles/stereo_1.dir/light_tracking.cpp.o  -o stereo_1  -L/usr/local/lib -Wl,-rpath,/usr/local/lib -lopencv_videoio -lopencv_core -lopencv_imgproc -lopencv_highgui -lopencv_calib3d 
